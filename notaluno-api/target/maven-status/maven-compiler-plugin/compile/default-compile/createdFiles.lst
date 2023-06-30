@@ -1,0 +1,4 @@
+com\nota\notalunoapi\NotalunoApiApplication.class
+com\nota\notalunoapi\controller\NotaController.class
+com\nota\notalunoapi\repository\NotaRepository.class
+com\nota\notalunoapi\model\Notas.class
